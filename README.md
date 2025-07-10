@@ -1,6 +1,5 @@
-# project1
-my-first-project
 # Project 1
+my-first-project
 
 A simple website using HTML and CSS.
 
